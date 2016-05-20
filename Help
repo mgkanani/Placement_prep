@@ -1,0 +1,6 @@
+grep -ri "str" * |cut -d":" -f1
+find . -iname "stock"
+
+cd /usr/lib/jvm/java-7-openjdk-amd64/docs/api
+
+cd /home/mahendra/down_codes/geeksforgeeks/www.geeksforgeeks.org
